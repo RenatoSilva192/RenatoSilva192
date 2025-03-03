@@ -7,15 +7,11 @@ Estou atualmente em busca de novas oportunidades profissionais como **Desenvolve
 ## Habilidades Técnicas
 
 - **Desenvolvimento Web Full Stack**: Domínio tanto no front-end quanto no back-end.
-- **Git e GitHub**: Versionamento de código e colaboração em projetos.
-- **APIs**: Desenvolvimento e integração de APIs RESTful.
-- **SQL**: Banco de dados relacionais e consultas avançadas.
-- **Metodologias Ágeis**: Experiência com Scrum e Kanban.
-- **Tecnologias Front-end**: HTML, CSS e JavaScript.
-- **Tecnologias Back-end**: Node.js, Express, etc.
-- **Python**: Desenvolvimento de scripts, automação e aplicações.
 - **Lógica de Programação**: Fundamentos sólidos para resolver problemas complexos.
-- **Automação de Testes**: Experiência com Robot Framework e Browser Library para automação de testes.
+- **Python**: Desenvolvimento de scripts, automação e aplicações.
+- **Git e GitHub**: Versionamento de código e colaboração em projetos.
+- **SQL**: Banco de dados relacionais e consultas avançadas.
+- **Tecnologias Front-end**: HTML, CSS e JavaScript.
 - **Tkinter**: Desenvolvimento de interfaces gráficas em Python.
 
 
